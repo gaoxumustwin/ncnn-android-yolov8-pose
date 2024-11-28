@@ -51,4 +51,6 @@ https://blog.csdn.net/Rachel321/article/details/130381788
 
 https://github.com/Rachel-liuqr/yolov8s-pose-ncnn
 
+https://github.com/triple-Mu/ncnn-examples/blob/main/cpp/yolov8/src/triplemu-yolov8.cpp
+
 https://zhuanlan.zhihu.com/p/622596922
