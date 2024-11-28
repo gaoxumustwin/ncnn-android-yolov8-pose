@@ -10,9 +10,9 @@ YOLOV8 attitude estimation frame rate remains stable at around 30 frames per sec
 
 ## Detailed Tutorial
 
-I have uploaded the detailed tutorial of this project on CSDN, with the link provided：
+I have uploaded the detailed tutorial of this project on CSDN, with the link provided：https://blog.csdn.net/gaoxukkk888/article/details/144105601?spm=1001.2014.3001.5502
 
-
+Currently, n models have been trained, so there is a lack of s models in the warehouse
 
 ## how to build and run
 ### step1
