@@ -296,8 +296,8 @@ int Inference::loadNcnnNetwork(AAssetManager* mgr, const char* modeltype , const
 
     char parampath[256];
     char modelpath[256];
-    sprintf(parampath, "yolov8%s-pose_ncnn_model/model.ncnn.param", modeltype);
-    sprintf(modelpath, "yolov8%s-pose_ncnn_model/model.ncnn.bin", modeltype);
+    sprintf(parampath, "yolov8%s-pose_ncnn_model/yolov8n-pose.param", modeltype);
+    sprintf(modelpath, "yolov8%s-pose_ncnn_model/yolov8n-pose.bin", modeltype);
 
     net.load_param(mgr, parampath);
     net.load_model(mgr, modelpath);
